@@ -4,6 +4,7 @@ These are my reading notes for Code 301 at **Code Fellows**. [click here](https:
 
 **Table of Contents:**
 1. [SMACSS and Responsive Web Design](01.md)
+2. [jQuery, Events, and The DOM](02.md)
 
 
 These are some benefits I hope to gain from readings:
