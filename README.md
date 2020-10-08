@@ -6,7 +6,7 @@ These are my reading notes for Code 301 at **Code Fellows**. [click here](https:
 1. [SMACSS and Responsive Web Design](01.md)
 2. [jQuery, Events, and The DOM](02.md)
 3. [MUSTACHE and FLEXBOX](03.md)
-
+4. [CSS Grid Garden](04.md)
 
 These are some benefits I hope to gain from readings:
 - Better understanding of dev environments
