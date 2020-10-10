@@ -7,6 +7,7 @@ These are my reading notes for Code 301 at **Code Fellows**. [click here](https:
 2. [jQuery, Events, and The DOM](02.md)
 3. [MUSTACHE and FLEXBOX](03.md)
 4. [CSS Grid Garden](04.md)
+5. [Heroku Deployment](05.md)
 
 These are some benefits I hope to gain from readings:
 - Better understanding of dev environments
