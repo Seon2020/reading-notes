@@ -11,6 +11,7 @@ These are my reading notes for Code 301 at **Code Fellows**. [click here](https:
 6. [Node, Express, and APIs](06.md)
 7. [APIs continued](07.md)
 8. [SQL](08.md)
+9. [Refactoring](09.md)
 
 These are some benefits I hope to gain from readings:
 - Better understanding of dev environments
