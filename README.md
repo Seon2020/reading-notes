@@ -14,6 +14,7 @@ These are my reading notes for Code 301 at **Code Fellows**. [click here](https:
 9. [Refactoring](09.md)
 10. [THE CALL STACK](10.md)
 11. [EJS](11.md)
+12. [EJS PARTIALS](12.md)
 
 These are some benefits I hope to gain from readings:
 - Better understanding of dev environments
