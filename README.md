@@ -17,6 +17,7 @@ These are my reading notes for Code 301 at **Code Fellows**. [click here](https:
 12. [EJS PARTIALS](12.md)
 13. [Update/Delete](13.md)
 14. [DB Normalization](14.md)
+15. [DIVERSITY AND INCLUSION](15.md)
 
 These are some benefits I hope to gain from readings:
 - Better understanding of dev environments
