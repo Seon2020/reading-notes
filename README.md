@@ -1,7 +1,13 @@
 # Reading Notes
-These are my reading notes for Code 301 and Code 401 at **Code Fellows**. I am excited to work on refining my coding skills. :smile: [Click here](https://github.com/Seon2020/reading-notes.git) to naviagte to my Reading Notes Repository.  
+These are my reading notes for Code 301 and Code 401 at **Code Fellows**. I am excited to work on refining my coding skills. :smile: [Click here](https://github.com/Seon2020/reading-notes.git) to naviagte to my Reading Notes Repository. 
 
-## Code 301 - Intermediate Software Development
+Things I hope to gain from the readings: 
+- Better understanding of dev environments
+- A more refined approach to building interactive web pages
+- Better utilization of animation properties in CSS
+- Tips and tricks for becoming a better programmer 
+
+## Code 301 - Intermediate Software Development (JavaScript)
 
 **Table of Contents:**
 1. [SMACSS and Responsive Web Design](01.md)
@@ -20,9 +26,7 @@ These are my reading notes for Code 301 and Code 401 at **Code Fellows**. I am e
 14. [DB Normalization](14.md)
 15. [DIVERSITY AND INCLUSION](15.md)
 
-These are some benefits I hope to gain from readings:
-- Better understanding of dev environments
-- A more refined approach to building interactive web pages
-- Better utilization of animation properties in CSS
+## Code 401 - Advanced Software Development (Python)
+
 
 
