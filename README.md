@@ -1,5 +1,5 @@
 # Reading Notes
-These are my reading notes for Code 301 and Code 401 at **Code Fellows**. [click here](https://github.com/Seon2020/reading-notes.git) to naviagte to my Reading Notes Repository. I am excited to build refine my coding skills. :smile: 
+These are my reading notes for Code 301 and Code 401 at **Code Fellows**. [Click here](https://github.com/Seon2020/reading-notes.git) to naviagte to my Reading Notes Repository. I am excited to build refine my coding skills. :smile: 
 ## Code 301 - Intermediate Software Development
 
 **Table of Contents:**
