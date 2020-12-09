@@ -28,4 +28,5 @@ Things I hope to gain from the readings:
 
 ## Code 401 - Advanced Software Development (Python)
 1. [Topic](16.md)
+2. [Testing and Modules](17.md)
 
