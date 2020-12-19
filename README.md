@@ -31,3 +31,4 @@ Things I hope to gain from the readings:
 2. [Testing and Modules](17.md)
 3. [FileIO & Exceptions](18.md)
 4. [Classes, Objects, Pytest, and Thinking Recursively](19.md)
+5. [Linked Lists](20.md)
