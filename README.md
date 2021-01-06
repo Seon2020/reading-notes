@@ -33,3 +33,4 @@ Things I hope to gain from the readings:
 4. [Classes, Objects, Pytest, and Thinking Recursively](19.md)
 5. [Linked Lists](20.md)
 6. [Game of Greed 1](21.md)
+7. [Game of Greed 2](22.md)
