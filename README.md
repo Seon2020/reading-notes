@@ -34,3 +34,5 @@ Things I hope to gain from the readings:
 5. [Linked Lists](20.md)
 6. [Game of Greed 1](21.md)
 7. [Game of Greed 2](22.md)
+8. [Game of Greed 3](23.md)
+9. [Game of Greed 4](24.md)
