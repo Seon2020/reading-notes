@@ -37,3 +37,4 @@ Things I hope to gain from the readings:
 8. [Game of Greed 3](23.md)
 9. [Game of Greed 4](24.md)
 10. [Implementation: Stacks and Queues](25.md)
+11. [Data Analysis](26.md)
