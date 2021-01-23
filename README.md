@@ -39,4 +39,5 @@ Things I hope to gain from the readings:
 10. [Implementation: Stacks and Queues](25.md)
 11. [Data Analysis](26.md)
 12. [Pandas](27.md)
+13. [Linear Regressions](28.md)
 
