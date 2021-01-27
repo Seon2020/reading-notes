@@ -40,4 +40,4 @@ Things I hope to gain from the readings:
 11. [Data Analysis](26.md)
 12. [Pandas](27.md)
 13. [Linear Regressions](28.md)
-
+14. [Data Visualization](29.md)
