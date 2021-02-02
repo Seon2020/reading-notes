@@ -42,3 +42,4 @@ Things I hope to gain from the readings:
 13. [Linear Regressions](28.md)
 14. [Data Visualization](29.md)
 15. [Trees](30.md)
+15. [Web Scraping](31.md)
