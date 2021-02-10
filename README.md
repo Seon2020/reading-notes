@@ -44,3 +44,4 @@ Things I hope to gain from the readings:
 15. [Trees](30.md)
 16. [Web Scraping](31.md)
 17. [Cryptography](32.md)
+18. [Automation](33.md)
