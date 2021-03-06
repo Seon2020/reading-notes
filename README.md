@@ -47,3 +47,4 @@ Things I hope to gain from the readings:
 18. [Automation](33.md)
 19. [Intro to Django](34.md)
 20. [Django Models](35.md)
+21. [Django Forms](36.md)
