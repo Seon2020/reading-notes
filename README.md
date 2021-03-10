@@ -48,3 +48,4 @@ Things I hope to gain from the readings:
 19. [Intro to Django](34.md)
 20. [Django Models](35.md)
 21. [Django CRUD and Forms](36.md)
+22. [Django Custom User](37.md)
