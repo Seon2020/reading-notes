@@ -49,3 +49,4 @@ Things I hope to gain from the readings:
 20. [Django Models](35.md)
 21. [Django CRUD and Forms](36.md)
 22. [Django Custom User](37.md)
+23. [Hash Tables](38.md)
