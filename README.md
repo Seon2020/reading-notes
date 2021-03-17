@@ -50,3 +50,4 @@ Things I hope to gain from the readings:
 21. [Django CRUD and Forms](36.md)
 22. [Django Custom User](37.md)
 23. [Hash Tables](38.md)
+24. [Django REST Framework & Docker](39.md)
