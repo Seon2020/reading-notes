@@ -53,3 +53,4 @@ Things I hope to gain from the readings:
 24. [Django REST Framework & Docker](39.md)
 25. [Permissions & Postgresql](40.md)
 26. [Authentication & Production Server](41.md)
+27. [API Deployment](42.md)
