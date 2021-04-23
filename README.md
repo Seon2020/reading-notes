@@ -60,3 +60,4 @@ Things I hope to gain from the readings:
 31. [React 2](46.md)
 32. [React 3](47.md)
 33. [React 4](48.md)
+34. [Pythonisms](49.md)
