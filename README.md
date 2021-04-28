@@ -61,3 +61,4 @@ Things I hope to gain from the readings:
 32. [React 3](47.md)
 33. [React 4](48.md)
 34. [Pythonisms](49.md)
+35. [Ethics](50.md)
